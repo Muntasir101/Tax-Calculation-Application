@@ -49,5 +49,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspiration and guidance from various open-source projects.
 - Community contributions that help enhance the project.
 
-## Contact
-For any inquiries, please reach out to your-email@example.com.
